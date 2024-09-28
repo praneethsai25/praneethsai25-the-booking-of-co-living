@@ -1,3 +1,10 @@
+## final project link
+https://workdrive.zohoexternal.com/writer/open/cgewc77ab0667f87740f1a3a0ebe751efb736?authId=%7B%22linkId%22%3A%225k2wApazIH8-LYmlU%22%7D  
+
+## password :HYnj1XV
+
+
+
 # Salesforce CRM for Co-Living Space Management
 
 This Salesforce CRM project is designed to manage the booking of co-living spaces. It allows customers to book rooms, select food options, provide feedback on services, and manage payments—all within the Salesforce ecosystem. This CRM enables efficient management of customer data, room availability, service quality, and financial transactions, making it easy to provide a seamless experience for users and administrators alike.
